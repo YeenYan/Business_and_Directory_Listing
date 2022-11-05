@@ -10,7 +10,7 @@
   }
 
   .bg-nav {
-    @apply bg-white backdrop-filter backdrop-blur bg-white bg-opacity-30 shadow;
+    @apply bg-white dark:bg-gray-800 backdrop-filter backdrop-blur bg-white dark:bg-gray-800 bg-opacity-30 shadow;
   }
 }
 
